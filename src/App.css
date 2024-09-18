@@ -1,0 +1,30 @@
+.shimmer {
+    height: 450px;
+    width: 300px;
+    border: #B2BEB5;
+    background-color: rgb(230, 224, 224);
+    margin: 0px 20px ;
+}
+.shimmer-img {
+    height: 18rem;
+    width: 18rem;
+    background-color: #A9A9A9;
+    margin: 3px;
+}
+.shimmer-title {
+    height: 30px;
+    width: 18rem;
+    background-color: #A9A9A9;
+    margin: 10px 3px 3px 3px;
+}
+
+.shimmer-text {
+    height: 20px;
+    width: 18rem;
+    background-color: #A9A9A9;
+    margin: 10px 3px 3px 3px;
+}
+
+.Shimmer {
+    display: flex;
+}

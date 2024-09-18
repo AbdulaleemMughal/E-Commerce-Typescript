@@ -1,0 +1,1 @@
+export interface ProductCategories extends Array<string> {};
